@@ -25,9 +25,4 @@ The **Botanic Garden Management Software** is an application designed to efficie
 ![image](https://github.com/user-attachments/assets/4a0856a5-d64f-47cf-9545-6c60b8f6a120)
 
 
-## License
-This project is licensed under the MIT License.
-
----
-Feel free to contribute to the project by submitting issues or pull requests! 🚀
 
