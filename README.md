@@ -1,4 +1,4 @@
-# Botanic Garden Management Software
+# Botanical Garden Management Software
 
 ## Description
 The **Botanic Garden Management Software** is an application designed to efficiently manage plants in a botanical garden. The software enables users to add, update, delete, and visualize plant information while maintaining a structured and user-friendly interface.
